@@ -26,10 +26,9 @@ Detect face in image.
 
 Common models
 
-MTCNN
-RetinaFace
-YOLO-face
-
+**MTCNN**
+**RetinaFace**
+**YOLO-face**
 Output:
 
 Bounding box
@@ -41,10 +40,10 @@ Normalize face orientation using landmarks.
 
 Example landmarks:
 
-left eye
+**left eye
 right eye
 nose
-mouth corners
+mouth corners**
 
 This reduces variance from pose and rotation.
 
@@ -60,9 +59,9 @@ Typical dimension
 
 Example models
 
-FaceNet
-ArcFace
-CosFace
+**FaceNet**
+**ArcFace**
+**CosFace**
 
 Output example
 
