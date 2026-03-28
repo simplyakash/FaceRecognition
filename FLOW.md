@@ -1,3 +1,15 @@
+Input Image
+   ↓
+Face Detection
+   ↓
+Face Alignment
+   ↓
+Feature Embedding (Deep Network)
+   ↓
+Similarity Matching
+   ↓
+Verification / Identification
+
 1️⃣ Face Recognition System (Very Likely Question)
 
 Interviewers often ask:
