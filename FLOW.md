@@ -300,3 +300,5 @@ Point where:
 FAR = FRR
 
 Lower EER → better system.
+
+python yolo_facenet_pipeline.py --webcam --embeddings embeddings.npz --camera 0 --headless --dump-file recent.jpg --target-fps 0.5
